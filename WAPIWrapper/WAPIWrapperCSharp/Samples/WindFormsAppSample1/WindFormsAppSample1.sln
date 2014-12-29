@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindFormsAppSample1", "WindFormsAppSample1\WindFormsAppSample1.csproj", "{C7F6428D-4C62-4804-9A15-BCB55903C772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F6428D-4C62-4804-9A15-BCB55903C772}.Debug|x64.ActiveCfg = Debug|x64
+		{C7F6428D-4C62-4804-9A15-BCB55903C772}.Debug|x64.Build.0 = Debug|x64
+		{C7F6428D-4C62-4804-9A15-BCB55903C772}.Debug|x86.ActiveCfg = Debug|x86
+		{C7F6428D-4C62-4804-9A15-BCB55903C772}.Debug|x86.Build.0 = Debug|x86
+		{C7F6428D-4C62-4804-9A15-BCB55903C772}.Release|x64.ActiveCfg = Release|x64
+		{C7F6428D-4C62-4804-9A15-BCB55903C772}.Release|x64.Build.0 = Release|x64
+		{C7F6428D-4C62-4804-9A15-BCB55903C772}.Release|x86.ActiveCfg = Release|x86
+		{C7F6428D-4C62-4804-9A15-BCB55903C772}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindFormsAppSample1.csprojResolveAssemblyReference.cache
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindFormsAppSample1.csproj.GenerateResource.Cache
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\Debug\WindowsFormsApplication1.exe
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\Debug\WAPIWrapperCSharp.dll
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\Debug\WindowsFormsApplication1.exe
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\Debug\WindowsFormsApplication1.pdb
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\Debug\WAPIWrapperCSharp.dll
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\klyuan\C#_Teach_20141216\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,9 @@
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\bin\Debug\WindEDBFormSample.exe
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\bin\Debug\WindEDBFormSample.pdb
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\obj\x86\Debug\WindEDBFormSample.csprojResolveAssemblyReference.cache
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\obj\x86\Debug\WindEDBFormSample.Form1.resources
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\obj\x86\Debug\WindEDBFormSample.Properties.Resources.resources
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\obj\x86\Debug\WindEDBFormSample.csproj.GenerateResource.Cache
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\obj\x86\Debug\WindEDBFormSample.exe
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\obj\x86\Debug\WindEDBFormSample.pdb
+E:\Test Code\C#_Teach\TeachSample_C#\WindEDBFormSample\WindEDBFormSample\bin\Debug\WAPIWrapperCSharp.dll

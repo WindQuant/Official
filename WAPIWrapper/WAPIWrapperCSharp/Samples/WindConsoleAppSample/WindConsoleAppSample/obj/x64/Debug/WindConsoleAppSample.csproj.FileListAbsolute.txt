@@ -1,0 +1,5 @@
+E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\bin\x64\Debug\WindConsoleAppSample.exe
+E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\bin\x64\Debug\WindConsoleAppSample.pdb
+E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\bin\x64\Debug\WindCSharp.dll
+E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\obj\x64\Debug\WindConsoleAppSample.exe
+E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\obj\x64\Debug\WindConsoleAppSample.pdb

@@ -1,0 +1,9 @@
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\x64\Debug\WindowsFormsApplication1.exe
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\x64\Debug\WindowsFormsApplication1.pdb
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\bin\x64\Debug\WindCSharp.dll
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x64\Debug\WindFormsAppSample1.csprojResolveAssemblyReference.cache
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x64\Debug\WindFormsAppSample1.csproj.GenerateResource.Cache
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x64\Debug\WindowsFormsApplication1.exe
+E:\Test Code\C#_Teach\TeachSample_C#\WindFormsAppSample1\WindFormsAppSample1\obj\x64\Debug\WindowsFormsApplication1.pdb

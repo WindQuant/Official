@@ -1,0 +1,203 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\QuantSample.rc2""  // 非 Microsoft Visual C++ 编辑的资源\r\n"
+    "#include ""l.CHS\\afxres.rc""      // 标准组件\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\QuantSample.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_QUANTSAMPLE_DIALOG DIALOGEX 0, 0, 451, 343
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "QuantSample"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Start",IDC_BTN_START,7,14,50,14
+    EDITTEXT        IDC_EDIT_USERNAME,110,37,54,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_PASSWORD,110,58,54,14,ES_PASSWORD | ES_AUTOHSCROLL
+    PUSHBUTTON      "Login",IDC_BTN_LOGIN,7,37,50,14
+    PUSHBUTTON      "Logout",IDC_BTN_LOGOUT,7,58,50,14
+    CONTROL         "wsd",IDC_RADIO_WSD,"Button",BS_AUTORADIOBUTTON | WS_GROUP,86,16,29,10
+    CONTROL         "wss",IDC_RADIO_WSS,"Button",BS_AUTORADIOBUTTON,132,16,27,10
+    CONTROL         "wst",IDC_RADIO_WST,"Button",BS_AUTORADIOBUTTON,176,16,27,10
+    CONTROL         "wsi",IDC_RADIO_WSI,"Button",BS_AUTORADIOBUTTON,220,16,26,10
+    CONTROL         "wsq",IDC_RADIO_WSQ,"Button",BS_AUTORADIOBUTTON,263,16,29,10
+    CONTROL         "wset",IDC_RADIO_WSET,"Button",BS_AUTORADIOBUTTON,312,16,31,10
+    CONTROL         "werr",IDC_RADIO_WERR,"Button",BS_AUTORADIOBUTTON,357,16,30,10
+    CONTROL         "Tdays",IDC_RADIO_TDAYS,"Button",BS_AUTORADIOBUTTON,176,34,34,10
+    CONTROL         "TdaysOff",IDC_RADIO_TDAYSOFF,"Button",BS_AUTORADIOBUTTON,220,34,44,10
+    CONTROL         "TdaysCnt",IDC_RADIO_TDAYSCNT,"Button",BS_AUTORADIOBUTTON,264,34,45,10
+    CONTROL         "weqs",IDC_RADIO_WEQS,"Button",BS_AUTORADIOBUTTON,314,34,45,10
+    CONTROL         "Subscribe",IDC_CHECK_SUBS,"Button",BS_AUTOCHECKBOX | WS_GROUP | WS_TABSTOP,262,62,46,10
+    EDITTEXT        IDC_EDIT_WINDCODES,68,79,376,14,ES_AUTOHSCROLL | WS_GROUP,WS_EX_TRANSPARENT
+    EDITTEXT        IDC_EDIT_INDICATORS,68,101,376,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_BEGIN_TIME,68,123,182,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_END_TIME,259,123,185,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_PARAMS,68,145,376,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Execute",IDC_BTN_EXEC,394,14,50,14
+    EDITTEXT        IDC_EDIT_CANCEL_ID,361,59,28,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "CancelReq",IDC_BTN_CANCEL,394,59,50,14
+    EDITTEXT        IDC_EDIT_OUTPUT,7,168,437,168,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL | ES_READONLY | WS_VSCROLL | NOT WS_TABSTOP
+    CTEXT           "Windcodes",IDC_STATIC,16,79,38,11,NOT WS_GROUP
+    CTEXT           "Indicators",IDC_STATIC,16,102,38,11,NOT WS_GROUP
+    CTEXT           "DateTime",IDC_STATIC,16,125,38,11,NOT WS_GROUP
+    CTEXT           "Params",IDC_STATIC,16,148,38,11,NOT WS_GROUP
+    CTEXT           "Username:",IDC_STATIC,67,39,38,11,NOT WS_GROUP
+    CTEXT           "Password:",IDC_STATIC,67,61,38,11,NOT WS_GROUP
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080403a8"
+        BEGIN
+            VALUE "CompanyName", "ShangHai Wind Information Co., Ltd."
+            VALUE "FileDescription", "Wind Quant API Sample"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "WindQuantSample.exe"
+            VALUE "LegalCopyright", "Copyright (C) 2012-2013 Wind Info All Rights Reserved."
+            VALUE "OriginalFilename", "WindQuantSample.exe"
+            VALUE "ProductName", "Wind Terminal"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 936
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_QUANTSAMPLE_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 444
+        VERTGUIDE, 269
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 336
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\QuantSample.rc2"  // 非 Microsoft Visual C++ 编辑的资源
+#include "l.CHS\afxres.rc"      // 标准组件
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

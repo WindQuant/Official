@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+     <folder name="提取数据">
+				<item name="提取历史时间序列数据" file="Sample1.m" id="例1" help="（wsd）提取银行间交易债券09付息国债（090007.IB）的净价序列数据"/>
+				<item name="提取分钟序列数据" file="Sample2.m" id="例2" help="（wsi）提取中金所IF股指期货当月连续合约的3分钟数据"/>
+				<item name="提取盘口数据" file="Sample3.m" id="例3" help="（wst）提取平安银行（000001.SZ）当天的买卖盘数据；"/>
+				<item name="提取截面数据" file="Sample4.m" id="例4" help="（wss）提取浦发银行（600000.SH）、万科A（000002.SZ）、宝安A（000009.SZ）、南玻A（000012.SZ）、长城开发（000021.SZ）2012年11月30号的基本特征字段。"/>
+				<item name="提取实时行情数据" file="Sample5.m" id="例5" help="读取行情数据的GUI。"/>
+				<item name="提取交易日期" file="Sample6.m" id="例6" help="（Tdays）"/>
+				<item name="提取财务数据" file="Sample7.m" id="例7" help="（wss）"/>
+				<item name="自动获取历史财务数据" file="Sample33.m" id="例33" help="（wss）"/>
+				<item name="提取债券估值数据" file="Sample8.m" id="例8" help="（wsd）"/>
+				<item name="提取资管报表数据" file="Sample9.m" id="例9" help="（WPF）"/>
+				<item name="提取数据集" file="Sample10.m" id="例10" help="（wset）"/>
+		                </folder>
+    <folder name="模拟交易">
+                                <item name="登录账户" file="Sample11.m" id="例11" help="（wsd）提取银行间交易债券09付息国债（090007.IB）的净价序列数据"/>
+				<item name="登出账户" file="Sample12.m" id="例12" help="（wsi）提取中金所IF股指期货当月连续合约的3分钟数据"/>
+				<item name="下单" file="Sample13.m" id="例13" help="（wst）提取平安银行（000001.SZ）当天的买卖盘数据；"/>
+				<item name="查询" file="Sample14.m" id="例14" help="读取行情数据的GUI。"/>
+				<item name="撤单" file="Sample15.m" id="例15" help="（Tdays）"/>
+				<item name="回调函数股指期货均线策略模拟交易" file="Sample16.m" id="例16" help="（wss）"/>
+                                <item name="定时器股指期货均线策略模拟交易" file="Sample34.m" id="例34" help="（wss）"/>               
+				<item name="多账户下单" file="Sample17.m" id="例17" help=""/>
+                                </folder>
+     <folder name="股票实例">
+				<item name="提取股票价格并绘图" file="Sample18.m" id="例18" help=""/>
+		                <item name="考虑无风险的资产组合有效前沿" file="Sample19.m" id="例19" help=""/>
+		                <item name="股票配对模型GUI" file="Sample20.m" id="例20" help=""/>
+		                <item name="回调函数显示实时5档报价" file="Sample21.m" id="例21" help=""/>
+		                <item name="构建资产组合有效前沿" file="Sample22.m" id="例22" help=""/>
+                                <item name="MA均线回测系统" file="Sample23.m" id="例23" help=""/>
+	                        <item name="显示运行在长期均线上方股票列表" file="Sample24.m" id="例24" help=""/>
+		                <item name="风格轮动模型" file="Sample25.m" id="例25" help=""/>
+	                        </folder>
+     <folder name="债券实例">
+				<item name="利率期限结构拟合" file="Sample26.m" id="例26" help=""/>
+				<item name="债券久期与凸度" file="Sample27.m" id="例27" help=""/>
+		                </folder>
+      <folder name="期货实例">
+				<item name="商品期货高频趋势交易策略" file="Sample28.m" id="例28" help=""/>
+				<item name="R-Breaker日内交易策略" file="Sample29.m" id="例29" help=""/>
+		                <item name="股指期货小游戏" file="Sample30.m" id="例30" help=""/>		
+                                </folder>
+      <folder name="期权实例">
+				<item name="实值期权与虚值期权表" file="Sample36.m" id="例28" help=""/>
+				<item name="定时器期权希腊字母监控" file="Sample37.m" id="例29" help=""/>
+                                </folder>
+
+      <folder name="工具程序">
+				<item name="K线绘制模板" file="Sample31.m" id="例31" help=""/>
+                                <item name="仿Excel中的PivotTable函数" file="Sample32.m" id="例32" help=""/>
+                                <item name="使用订阅然后把数据存储到硬盘中" file="Sample35.m" id="例32" help=""/>
+                                </folder>
+
+
+</root>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+function testWind(w)
+
+for i=1:2000
+    data = w.history('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.realtime('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.timeseries('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wss('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wst('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wsi('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wsd('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+end
+
+for i=1:3000
+    data = w.history('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.realtime('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.timeseries('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wss('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wst('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wsi('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wsd('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+end
+
+for i=1:5000
+    data = w.history('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.realtime('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.timeseries('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wss('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wst('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wsi('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+    data = w.wsd('6001,6002,6003,6004,6005,6006,6007,6008,6009,6010,6011,6012,6013,6015,6015,6016,6016,6016','OPEN,CLOSE,HIGH,LOW,Last1,last2,last3,last4,last5,last6,last7,last8,last9,last10');
+end
+
+
+end

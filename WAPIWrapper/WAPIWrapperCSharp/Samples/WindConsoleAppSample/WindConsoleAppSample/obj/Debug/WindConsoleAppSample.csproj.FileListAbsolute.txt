@@ -1,6 +1,0 @@
-E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\obj\Debug\WindConsoleAppSample.csprojResolveAssemblyReference.cache
-E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\bin\Debug\WindConsoleAppSample.exe
-E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\bin\Debug\WindConsoleAppSample.pdb
-E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\bin\Debug\WAPIWrapperCSharp.dll
-E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\obj\Debug\WindConsoleAppSample.exe
-E:\Test Code\C#_Teach\TeachSample_C#\WindConsoleAppSample\WindConsoleAppSample\obj\Debug\WindConsoleAppSample.pdb

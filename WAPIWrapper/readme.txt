@@ -1,10 +1,10 @@
-WAPIWrapper:»ùÓÚCOM¼¼ÊõµÄWindÁ¿»¯½Ó¿Ú
+WAPIWrapper:åŸºäºCOMæŠ€æœ¯çš„Windé‡åŒ–æ¥å£
 
 =================
-WAPIWrapperCSharp: WindÁ¿»¯½Ó¿ÚC#°æ
-WAPIWrapperCPP:    WindÁ¿»¯½Ó¿ÚC++°æ
+WAPIWrapperCSharp: Windé‡åŒ–æ¥å£C#ç‰ˆ
+WAPIWrapperCPP:    Windé‡åŒ–æ¥å£C++ç‰ˆ
 
-WAPIWrapperMatlab: WindÁ¿»¯½Ó¿ÚMATLAB°æ
-WAPIWrapperPython: WindÁ¿»¯½Ó¿ÚPython°æ
-WAPIWrapperR:      WindÁ¿»¯½Ó¿ÚR°æ
-WAPIWrapperVBA:    WindÁ¿»¯½Ó¿ÚVBA°æ
+WAPIWrapperMatlab: Windé‡åŒ–æ¥å£MATLABç‰ˆ
+WAPIWrapperPython: Windé‡åŒ–æ¥å£Pythonç‰ˆ
+WAPIWrapperR:      Windé‡åŒ–æ¥å£Rç‰ˆ
+WAPIWrapperVBA:    Windé‡åŒ–æ¥å£VBAç‰ˆ

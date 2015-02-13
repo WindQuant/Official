@@ -1,0 +1,4 @@
+wsq_demo              The demo for w.wsq and callback (real time show)
+wsd_quant_demo        The demo for w.wsd (require quantmod package) 
+wsi_demo              The demo for w.wsi/w.wss (get 10 minutes data and draw)
+wst_demo              The demo for w.wst/w.wss (get tick data and draw)

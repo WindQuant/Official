@@ -1,0 +1,13 @@
+Package: WindR
+Type: Package
+Title: Financial Data API of Shanghai Wind Information Co., Ltd
+Version: 1.1
+Date: 2014-7-16
+Depends: R (>= 2.15.0)
+Author: Shanghai Wind Information Co., Ltd
+Maintainer: Honghai Zhu <hhzhu@wind.com.cn>
+Description: Data API to retrieve financial data from Wind. 
+             User should have an account from Wind.
+License: Free
+Archs: i386, x64
+Packaged: 2015-01-20 01:24:00 UTC; zjshen

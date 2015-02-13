@@ -1,0 +1,9 @@
+useDynLib(WindR, .registration = TRUE,.fixes = "Wind_")
+
+##exportPattern####("^[[:alpha:]]+")
+export(w.start,w.stop,w.close,w.menu,w.wsd,w.wss,w.wst,w.wsi,w.wsq,w.wsqtd,w.edb)
+export(w.asDateTime,w.callback,w.cancelRequest,w.demoCallback,w.clearAllRequest)
+export(w.tdays,w.tdaysoffset,w.tdayscount,w.wset,w.wpf,w.wupf,w.weqs)
+export(w.isconnected)
+export(w.tlogon,w.tlogout,w.torder,w.tspecial,w.tcancel,w.tquery,w.getversion)
+export(w.bktstart,w.bktquery,w.bktorder,w.bktstatus,w.bktend,w.bktsummary,w.bktdelete,w.bktstrategy,w.bktfocus,w.bktshare)
